@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src='https://github-readme-stats.vercel.app/api?username=jacklandrin&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacklandrin&hide=CSS,shell" />
+
 ❤️ I love coding!
 🏠 come from Tianjin, China🇨🇳
 📍 live in Amsterdam, Netherlands🇳🇱
@@ -8,3 +12,4 @@
 👥 A project I am involved in has **500 million users**, I am responsible for the development of video live streaming and vlog functions.
 📝 https://www.jacklandrin.com
 📧 jacklandrin@hotmail.com
+
