@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<img src='https://github-readme-stats.vercel.app/api?username=jacklandrin&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=true' />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacklandrin&hide=CSS,shell" />
 
 ❤️ I love coding!
 🏠 come from Tianjin, China🇨🇳
@@ -14,3 +11,6 @@
 📧 jacklandrin@hotmail.com
 
 
+<img align="left" src='https://github-readme-stats.vercel.app/api?username=jacklandrin&show_icons=true&icon_color=FFAC46&title_color=FFAC46&text_color=718096&bg_color=ffffff&hide_title=false' width="50%"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacklandrin&hide=CSS,shell" width="40%"/>
